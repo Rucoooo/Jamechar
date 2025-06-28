@@ -1,1 +1,14 @@
-
+[
+  {
+    "type": "NS",
+    "name": "@",
+    "content": "ns1.vercel-dns.com",
+    "ttl": 3600
+  },
+  {
+    "type": "NS",
+    "name": "@",
+    "content": "ns2.vercel-dns.com",
+    "ttl": 3600
+  }
+]
